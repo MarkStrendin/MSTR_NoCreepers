@@ -1,0 +1,7 @@
+name: MSTR_NoCreepers
+main: ca.strendin.MSTR_NoCreepers.MSTR_NoCreepers
+version: 0.1
+website: https://github.com/MarkStrendin/MSTR_NoCreepers
+authors:
+  - Mark Strendin
+description: Replaces creepers with zombies
